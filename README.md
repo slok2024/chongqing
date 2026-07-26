@@ -4,4 +4,3 @@
 
 <img width="1920" height="941" alt="image" src="https://github.com/user-attachments/assets/feab5828-b89c-43f1-80f6-48f36e080173" />
 
-需要数据库密钥的请联系 https://t.me/+FSGffNNjLao2NzFl
